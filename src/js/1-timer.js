@@ -22,7 +22,7 @@ const options = {
     defaulDate: new Date(),
     minuteIncrement: 1,
     onClose(selectedDates) {
-        const selectedDates = selectedDates[0];
+        const selectedDate = selectedDates[0];
         if (selectedDates < new Data()) {
             iziToast.error({
                 title: `Error`,
