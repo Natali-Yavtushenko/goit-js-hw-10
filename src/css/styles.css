@@ -154,7 +154,7 @@ margin-left: 48px;
 margin-top: 36px;
 }
 
-.button {
+.btn-submit {
   border-radius: 8px;
 padding: 8px 16px;
 width: 360px;
@@ -168,7 +168,7 @@ letter-spacing: 0.04em;
 color: #fff;
 }
 
-.button:hover {
+.btn-submit:hover {
   background: #6c8cff;
 }
 
